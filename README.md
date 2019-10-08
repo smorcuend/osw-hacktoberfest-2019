@@ -8,7 +8,7 @@
 [![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square)](https://www.firsttimersonly.com/)
 ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/OSWeekends/osw-hacktoberfest-2019?style=flat-square)
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-52-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-53-orange.svg?style=flat-square)](#contributors)
 [![Code of conduct](https://img.shields.io/badge/code%20of-conduct-ff69b4.svg?style=flat-square)](https://github.com/OSWeekends/osw-hacktoberfest-2019/blob/master/CODE_OF_CONDUCT.md)
 ![GitHub](https://img.shields.io/github/license/OSWeekends/osw-hacktoberfest-2019?color=blue&style=flat-square)
 
@@ -157,6 +157,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/s-a-c-h-i-n"><img src="https://avatars2.githubusercontent.com/u/30471507?v=4" width="100px;" alt="Sachin Kamath"/><br /><sub><b>Sachin Kamath</b></sub></a><br /><a href="https://github.com/OSWeekends/osw-hacktoberfest-2019/commits?author=s-a-c-h-i-n" title="Code">💻</a></td>
     <td align="center"><a href="http://ashvin-godbole.github.io"><img src="https://avatars0.githubusercontent.com/u/33014264?v=4" width="100px;" alt="Ashwin Godbole"/><br /><sub><b>Ashwin Godbole</b></sub></a><br /><a href="https://github.com/OSWeekends/osw-hacktoberfest-2019/commits?author=ashvin-godbole" title="Code">💻</a></td>
     <td align="center"><a href="https://www.morsecodemedia.com"><img src="https://avatars2.githubusercontent.com/u/5315124?v=4" width="100px;" alt="Brandon Morse"/><br /><sub><b>Brandon Morse</b></sub></a><br /><a href="https://github.com/OSWeekends/osw-hacktoberfest-2019/commits?author=morsecodemedia" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/zaldih"><img src="https://avatars3.githubusercontent.com/u/16844185?v=4" width="100px;" alt="Juan Torres"/><br /><sub><b>Juan Torres</b></sub></a><br /><a href="https://github.com/OSWeekends/osw-hacktoberfest-2019/commits?author=zaldih" title="Code">💻</a></td>
   </tr>
 </table>
 
