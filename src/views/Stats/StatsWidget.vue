@@ -10,7 +10,7 @@ export default {
   name: 'StatsWidget',
   props: {
     title: String,
-    value: String
+    value: [Number, String]
   }
 }
 </script>
