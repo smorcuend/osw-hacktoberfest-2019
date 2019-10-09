@@ -13,6 +13,10 @@
             <i class="fab fa-meetup m-2"></i>
           </a>
         </p>
+        <small class="d-block text-center">
+          Powered by <a href="http://osweekends.com/">OSWeekends</a>.
+          Made with 💙 by <a href="https://github.com/OSWeekends/osw-hacktoberfest-2019#contributors-">guilders & contributors</a>
+        </small>
       </div>
     </div>
   </footer>

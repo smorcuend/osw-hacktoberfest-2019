@@ -17,12 +17,12 @@
       </p>
 
       <div class="mt-5 d-flex justify-content-between">
-        <img src="https://cultofthepartyparrot.com/parrots/hd/twinsparrot.gif" alt="parrot-gif" width="25px">
-        <img src="https://cultofthepartyparrot.com/parrots/hd/twinsparrot.gif" alt="parrot-gif" width="25px">
-        <img src="https://cultofthepartyparrot.com/parrots/hd/twinsparrot.gif" alt="parrot-gif" width="25px">
-        <img src="https://cultofthepartyparrot.com/parrots/hd/twinsparrot.gif" alt="parrot-gif" width="25px">
-        <img src="https://cultofthepartyparrot.com/parrots/hd/twinsparrot.gif" alt="parrot-gif" width="25px">
-        <img src="https://cultofthepartyparrot.com/parrots/hd/twinsparrot.gif" alt="parrot-gif" width="25px">
+        <img src="https://cultofthepartyparrot.com/parrots/hd/twinsparrot.gif" alt="parrot-gif" width="25px" height="25px">
+        <img src="https://cultofthepartyparrot.com/parrots/hd/twinsparrot.gif" alt="parrot-gif" width="25px" height="25px">
+        <img src="https://cultofthepartyparrot.com/parrots/hd/twinsparrot.gif" alt="parrot-gif" width="25px" height="25px">
+        <img src="https://cultofthepartyparrot.com/parrots/hd/twinsparrot.gif" alt="parrot-gif" width="25px" height="25px">
+        <img src="https://cultofthepartyparrot.com/parrots/hd/twinsparrot.gif" alt="parrot-gif" width="25px" height="25px">
+        <img src="https://cultofthepartyparrot.com/parrots/hd/twinsparrot.gif" alt="parrot-gif" width="25px" height="25px">
       </div>
 
       <div class="text-center">
@@ -31,12 +31,12 @@
       </div>
 
       <div class="d-flex justify-content-between">
-        <img src="https://cultofthepartyparrot.com/parrots/hd/twinsparrot.gif" alt="parrot-gif" width="25px">
-        <img src="https://cultofthepartyparrot.com/parrots/hd/twinsparrot.gif" alt="parrot-gif" width="25px">
-        <img src="https://cultofthepartyparrot.com/parrots/hd/twinsparrot.gif" alt="parrot-gif" width="25px">
-        <img src="https://cultofthepartyparrot.com/parrots/hd/twinsparrot.gif" alt="parrot-gif" width="25px">
-        <img src="https://cultofthepartyparrot.com/parrots/hd/twinsparrot.gif" alt="parrot-gif" width="25px">
-        <img src="https://cultofthepartyparrot.com/parrots/hd/twinsparrot.gif" alt="parrot-gif" width="25px">
+        <img src="https://cultofthepartyparrot.com/parrots/hd/twinsparrot.gif" alt="parrot-gif" width="25px" height="25px">
+        <img src="https://cultofthepartyparrot.com/parrots/hd/twinsparrot.gif" alt="parrot-gif" width="25px" height="25px">
+        <img src="https://cultofthepartyparrot.com/parrots/hd/twinsparrot.gif" alt="parrot-gif" width="25px" height="25px">
+        <img src="https://cultofthepartyparrot.com/parrots/hd/twinsparrot.gif" alt="parrot-gif" width="25px" height="25px">
+        <img src="https://cultofthepartyparrot.com/parrots/hd/twinsparrot.gif" alt="parrot-gif" width="25px" height="25px">
+        <img src="https://cultofthepartyparrot.com/parrots/hd/twinsparrot.gif" alt="parrot-gif" width="25px" height="25px">
       </div>
 
       <hr class="my-5">

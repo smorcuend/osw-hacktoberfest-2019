@@ -15,7 +15,6 @@ By participating, you are expected to uphold this code. Please report unacceptab
 ## What should I know before I get started?
 - This project is built on top of [Vue.js](https://github.com/vuejs/vue) and [BootstrapVue](https://github.com/bootstrap-vue/bootstrap-vue)
 - Pull Request **must be** made to `develop` branch
-- Assign **Jorge Baumann** as _reviewer_ 
 
 ## How Can I Contribute?
 

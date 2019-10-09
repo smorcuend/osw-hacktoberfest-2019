@@ -68,7 +68,7 @@ export default {
   data () {
     return {
       form: {
-        color: '#B4DA55',
+        color: '#fafafa',
         username: ''
       },
       copyModel: {
@@ -98,7 +98,6 @@ export default {
   },
   methods: {
     generateJson (ev) {
-      // this.hexToRGB(this.form.color)
       this.buttonIsLoading = true
       this.getGithubUser(this.form.username)
         .then((res) => {
